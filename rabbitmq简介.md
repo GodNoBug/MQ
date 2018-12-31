@@ -13,7 +13,9 @@ Master-Slave模式：高可用服务，主备模式
 
 NetWork：分布式、两种主备模式
 
-![架构](.\img\Activemq.jpg)
+       
+      
+![架构](MQ/img/Activemq.jpgg)
 
 ## 主流消息中间件介绍-KAFKA
 
