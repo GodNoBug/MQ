@@ -15,7 +15,7 @@ NetWork：分布式、两种主备模式
 
        
       
-![架构](MQ/img/Activemq.jpg)
+![架构](https://raw.githubusercontent.com/GodNoBug/MQ/master/img/Activemq.jpg)
 
 ## 主流消息中间件介绍-KAFKA
 
